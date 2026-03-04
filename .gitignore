@@ -1,0 +1,17 @@
+# Python
+venv/
+__pycache__/
+*.pyc
+*.egg-info/
+
+# Terraform
+.terraform/
+*.tfstate
+*.tfstate.backup
+
+# Environment variables (never commit secrets)
+.env
+
+# OS noise
+.DS_Store
+Thumbs.db
