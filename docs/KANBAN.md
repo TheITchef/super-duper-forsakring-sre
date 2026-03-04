@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Create GitHub Actions pipeline - build stage
 - [ ] Create GitHub Actions pipeline - deploy stage
 - [ ] Create Terraform base structure
 - [ ] Create Azure Resource Group
@@ -26,7 +25,7 @@ kanban-plugin: board
 
 ## In Progress
 
-- [ ] Create GitHub Actions pipeline - test stage
+- [ ] Create GitHub Actions pipeline - build stage
 
 
 ## Done
@@ -44,6 +43,7 @@ kanban-plugin: board
 - [ ] Create pyproject.toml
 - [ ] Create Dockerfile
 - [ ] Build and test container locally
+- [ ] Create GitHub Actions pipeline - test stage
 
 
 
