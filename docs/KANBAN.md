@@ -1,15 +1,11 @@
 ---
+
 kanban-plugin: board
+
 ---
 
 ## Backlog
 
-- [ ] Create app folder structure
-- [ ] Create FastAPI skeleton
-- [ ] Add /health endpoint
-- [ ] Add /policy/{id} endpoint
-- [ ] Create requirements.txt
-- [ ] Create pyproject.toml
 - [ ] Create Dockerfile
 - [ ] Build and test container locally
 - [ ] Create GitHub Actions pipeline - test stage
@@ -30,7 +26,10 @@ kanban-plugin: board
 - [ ] Write architecture decision records
 - [ ] Write README
 
+
 ## In Progress
+
+
 
 ## Done
 
@@ -39,3 +38,18 @@ kanban-plugin: board
 - [ ] Set up branch protection on main
 - [ ] Create folder structure
 - [ ] Create .gitignore
+- [ ] Create app folder structure
+- [ ] Create FastAPI skeleton
+- [ ] Add /health endpoint
+- [ ] Add /policy/{id} endpoint
+- [ ] Create requirements.txt
+- [ ] Create pyproject.toml
+
+
+
+
+%% kanban:settings
+```
+{"kanban-plugin":"board"}
+```
+%%
