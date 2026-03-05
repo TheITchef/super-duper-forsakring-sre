@@ -7,12 +7,6 @@ kanban-plugin: board
 ## Backlog
 
 - [ ] Create GitHub Actions pipeline - deploy stage
-- [ ] Create Terraform base structure
-- [ ] Create Azure Resource Group
-- [ ] Create Azure Container Registry
-- [ ] Create Azure Container Apps environment
-- [ ] Create Log Analytics Workspace
-- [ ] Create Application Insights
 - [ ] Configure monitoring alerts
 - [ ] Create dashboards
 - [ ] Write SLO definitions
@@ -44,6 +38,12 @@ kanban-plugin: board
 - [ ] Create Dockerfile
 - [ ] Build and test container locally
 - [ ] Create GitHub Actions pipeline - test stage
+- [ ] Create Terraform base structure
+- [ ] Create Azure Resource Group
+- [ ] Create Azure Container Registry
+- [ ] Create Azure Container Apps environment
+- [ ] Create Log Analytics Workspace
+- [ ] Create Application Insights
 
 
 
