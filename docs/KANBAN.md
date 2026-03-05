@@ -6,7 +6,6 @@ kanban-plugin: board
 
 ## Backlog
 
-- [ ] Create GitHub Actions pipeline - deploy stage
 - [ ] Configure monitoring alerts
 - [ ] Create dashboards
 - [ ] Write SLO definitions
@@ -44,6 +43,7 @@ kanban-plugin: board
 - [ ] Create Azure Container Apps environment
 - [ ] Create Log Analytics Workspace
 - [ ] Create Application Insights
+- [ ] Create GitHub Actions pipeline - deploy stage
 
 
 
